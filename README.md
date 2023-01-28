@@ -1,6 +1,8 @@
-# Professional survey Power Bi visualizations
+# Visualization of data professionals' survey responses
 
-Data cleaning and visualization project in Power Bi on real data from a professional survey. This file contains the steps i took in cleaning the data in Power Bi.
+This project is data cleaning and visualizations in Power Bi on real data from a data professional survey. I use Power Bi for a meaningful visualization of the responses.
+
+This file contains the steps i took in cleaning the data. I only used Power Bi in the data cleaning process.
 
 1. I started the project by cleaning the data using only Power Bi. I deleted the empty columns that I don't need for visualization (Columns E–I).
 
