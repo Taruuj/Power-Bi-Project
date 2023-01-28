@@ -4,9 +4,9 @@ Data cleaning and visualization project in Power Bi on real data from a professi
 
 1. I started the project by cleaning the data using only Power Bi. I deleted the empty columns that I don't need for visualization (Columns E–I).
 
-2.After this, I edit the columns that I use in the visualization. The modifications concern the columns that tell about the title, industry, country, favorite programming language, and yearly salary of the survey respondents.
+2. After this, I edit the columns that I use in the visualization. The modifications concern the columns that tell about the title, industry, country, favorite programming language, and yearly salary of the survey respondents.
 
-3.I split the title, industry, country, and favorite programming language columns by delimiter. I use the delimiter "(" for title, industry, and country, and the delimiter ":" for favorite programming language. Then I remove the extra columns that were created.
+3. I split the title, industry, country, and favorite programming language columns by delimiter. I use the delimiter "(" for title, industry, and country, and the delimiter ":" for favorite programming language. Then I remove the extra columns that were created.
 
 4. Then I'll start working with the yearly salary column. I want to create a column with averages of the yearly salaries. First, I create a duplicate of the column. 
 
